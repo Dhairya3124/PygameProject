@@ -10,3 +10,4 @@ To install pygame module: Run pip install pygame in CMD
 
 To Start the Game: Run main.py
 
+![alt text](https://github.com/Dhairya3124/PygameProject/blob/main/Assets/Shooting-Game.png)
